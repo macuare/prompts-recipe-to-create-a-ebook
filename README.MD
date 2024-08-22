@@ -201,8 +201,8 @@ Godot Engine ofrece una rica variedad de nodos 2D que permiten a los desarrollad
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                      |
+|   Ação   |  prompt  |
+| :------: | :------: |
 | conteúdo | crea un resumen de cada nodo 2d de godot engine y coloca un ejemplo de uso de cada uno de ellos y presentalo en formato de ebook |
 
 ## ✨ Features

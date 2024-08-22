@@ -17,15 +17,6 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
-Para crear un resumen detallado de cada nodo 2D en Godot Engine junto con ejemplos de uso y presentarlo en formato de eBook, seguiremos los pasos a continuación:
-
-1. **Listado de Nodos 2D**: Crearé un listado de los nodos 2D más comunes en Godot Engine.
-2. **Resumen y Ejemplos**: Proporcionaré un resumen para cada nodo, explicando su propósito y cómo se utiliza en el desarrollo de videojuegos.
-3. **Formato de eBook**: Organizaré la información en un formato de eBook.
-
-Aquí te presento un resumen que seguiría el formato de un eBook:
-
 ---
 
 ### **eBook: Guía Completa de Nodos 2D en Godot Engine**
@@ -198,8 +189,6 @@ func _ready():
 Godot Engine ofrece una rica variedad de nodos 2D que permiten a los desarrolladores crear juegos complejos y visualmente atractivos con facilidad. Esta guía ha cubierto los nodos esenciales que cualquier desarrollador debería conocer, junto con ejemplos prácticos que pueden ser implementados en proyectos reales.
 
 ---
-
-Este eBook se puede formatear en un archivo PDF para distribución, con un índice interactivo y secciones bien organizadas para facilitar su lectura y referencia. Si deseas proceder con la creación del archivo en formato PDF, puedo ayudarte a organizar el contenido y exportarlo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
